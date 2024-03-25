@@ -36,7 +36,8 @@ Diff = A ⊕ B ⊕ Bin
 
 Borrow out = A'Bin + A'B + BBin
 
-**Truthtable**
+## Truthtable
+
 **FULL ADDER**
 ![image](https://github.com/prideeshm/FULL_ADDER_SUBTRACTOR/assets/144870483/d0433287-bca1-4a42-941b-7ebe73f982fa)
 
