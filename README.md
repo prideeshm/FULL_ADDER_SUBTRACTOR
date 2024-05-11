@@ -1,3 +1,5 @@
+#### Name:PRIDEESH M
+#### Reg No:212223040154
 # FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
